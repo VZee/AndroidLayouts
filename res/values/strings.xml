@@ -1,0 +1,14 @@
+<!--Source: https://developer.android.com/guide/topics/resources/string-resource-->
+<resources>
+    <string name="intro">Choose a layout</string>
+    <string name="linear_horizontal">Linear - horizontal</string>
+    <string name="grid">Grid</string>
+    <string name="relative">Relative</string>
+    <string name="table">Table</string>
+    <string name="app_name">Eat Layouts for Breakfast</string>
+    <string name="item1">Espresso</string>
+    <string name="item2">Muesli</string>
+    <string name="item3">Juice</string>
+    <string name="item4">Salami</string>
+    <string name="item5">Croissant</string>
+</resources>
